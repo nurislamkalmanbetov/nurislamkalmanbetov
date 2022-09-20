@@ -1,6 +1,5 @@
 ### Hi there 👋, im Nuris
 
-![](https://komarev.com/ghpvc/?username=abdurazzak1200)
 
 ## I'm a Python BackEnd Developer
 - 💪 I like to write code's
@@ -40,5 +39,5 @@ English and German
 
 
 [linkedin]: https://www.linkedin.com/in/nurislam-kalmanbetov-5461a0242
-[instagram]: https://www.instagram.com/nuriskalmanbetov/
-[telegram]: https://www.t.me/ennello/
+[instagram]: https://www.instagram.com/nuris.klm/
+[telegram]: https://www.t.me/Nurislamkalmanbetov/
