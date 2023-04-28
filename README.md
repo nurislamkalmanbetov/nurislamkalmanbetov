@@ -31,6 +31,9 @@ English and German
 <img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/blob/main/topics/linux/linux.png" />
 <img align="left" alt="Postman" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png" />
 <img align="left" alt="Server" width="26px" src="https://media.istockphoto.com/vectors/server-icon-vector-sign-and-symbol-isolated-on-white-background-logo-vector-id1025651396?k=20&m=1025651396&s=170667a&w=0&h=B351-gN5A_fRI_qnwx0XsqF2kYvpVQegsKP2qxC_Ynw=" />
+<img align="left" alt="Docker" width="26px" src="https://github.com/github/explore/blob/main/topics/docker/docker.png" />
+<img align="left" alt="Celery" width="26px" src="https://github.com/celery/celery/blob/master/docs/_static/celery_128.png?raw=true" />
+<img align="left" alt="Selenium" width="26px" src="https://github.com/SeleniumHQ/selenium/raw/trunk/logo/webdriver-integration/webdriver-128x128.png" />
 
 <br />
 <br />
