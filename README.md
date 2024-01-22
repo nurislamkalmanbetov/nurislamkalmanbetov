@@ -11,6 +11,9 @@ English and German
 ### Connect with me:
 
   [<img align="left" alt="nurislamkalmanbetov | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" />][linkedin] 
+
+  [<img align="left" alt="nurislamkalmanbetov | Gmail" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" />][Gmail] 
+  
 ### Languages and Tools:
 
 
