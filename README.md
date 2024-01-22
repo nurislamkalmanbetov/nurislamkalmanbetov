@@ -42,7 +42,4 @@ English and German
 
 
 [linkedin]: https://www.linkedin.com/in/nurislam-kalmanbetov-5461a0242
-[instagram]: https://www.instagram.com/nuris.klm/
-[telegram]: https://www.t.me/Nurislamkalmanbetov/
-[gmail]: kalmanbetovnurislam19@gmail.com
 
