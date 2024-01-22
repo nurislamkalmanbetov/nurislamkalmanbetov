@@ -42,4 +42,3 @@ English and German
 
 
 [linkedin]: https://www.linkedin.com/in/nurislam-kalmanbetov-5461a0242
-
